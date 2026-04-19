@@ -1,6 +1,7 @@
 # HMC-Hospital-Dashboard
 Hospital Data Analysis using Power BI
-# 🏥 HMC Hospital Dashboard
+
+This dashboard helps hospital management monitor performance, optimize resources, and improve patient outcomes using data-driven insights.
 
 ## 📌 Project Overview
 This project is a healthcare analytics dashboard built using Power BI to analyze hospital performance, patient data, and operational efficiency.
